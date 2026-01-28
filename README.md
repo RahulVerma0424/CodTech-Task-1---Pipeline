@@ -82,3 +82,7 @@ The dataset includes:
 # OUTPUT
 
 <img width="761" height="320" alt="Image" src="https://github.com/user-attachments/assets/00d037a3-51e4-45aa-a62e-99606824b973" />
+
+<img width="600" height="357" alt="Image" src="https://github.com/user-attachments/assets/8aa2f38e-3385-4601-9f23-16f15b002202" />
+
+<img width="720" height="328" alt="Image" src="https://github.com/user-attachments/assets/4056930b-e4ae-4511-b7a5-f6f7820df043" />
